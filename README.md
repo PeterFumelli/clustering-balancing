@@ -3,8 +3,8 @@
 
 ### Задание 1
 
-![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
-![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
+Statistics Report ![alt text](https://github.com/PeterFumelli/clustering-balancing/blob/main/img/Statistics%20Report.png)
+Logs ![alt text](https://github.com/PeterFumelli/clustering-balancing/blob/main/img/logs.png)
 
 ```
 global
@@ -78,8 +78,8 @@ listen web_tcp
 
 ### Задание 2
 
-![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
-![alt text](https://github.com/username/reponame/blob/branch/path/image.png)
+![alt text](https://github.com/PeterFumelli/clustering-balancing/blob/main/img/scr1.png)
+![alt text](https://github.com/PeterFumelli/clustering-balancing/blob/main/img/scr2.png)
 
 ```
 global
